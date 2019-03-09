@@ -18,5 +18,11 @@ public class Calculator {
 	public void divide(int a, int b) {
 		System.out.println(a / b);
 	}
+	
+	public static void main(String[] args) {
+		System.out.println("Tomorrow is Saturday");
+		Calculator obj = new Calculator();
+		obj.add(20, 30);
+	}
 
 }
