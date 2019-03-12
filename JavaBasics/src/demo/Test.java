@@ -6,6 +6,10 @@ public class Test {
 		System.out.println("Apple makes Mobiles");
 	}
 	
+	public void computer() {
+		System.out.println("Dell makes computers");
+	}
+	
 	public static void main(String[] args) {
 		
 		final int x = 20;
