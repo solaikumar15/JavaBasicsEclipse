@@ -20,6 +20,8 @@ public class Car {
 		
 		System.out.println("Today is Monday");
 		System.out.println("Color of my car = " + colorOfCar);
+		
+		//Adding a comment in Car class
 	}
 
 }

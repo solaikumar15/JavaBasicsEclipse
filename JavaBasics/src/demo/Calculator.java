@@ -24,7 +24,10 @@ public class Calculator {
 		Calculator obj = new Calculator();
 		obj.add(20, 30);
 	}
-
+	
+	public void day() {
+		System.out.println("Today is Monday");
+	}
 	
 	//Adding a new comment in line number 29
 	//Adding a new comment in line 30

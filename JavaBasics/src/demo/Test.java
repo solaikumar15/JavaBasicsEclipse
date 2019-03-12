@@ -9,8 +9,8 @@ public class Test {
 		//x = x + 5;
 		
 		System.out.println(x);
-//		Calculator basicCal = new Calculator();
-//		basicCal.add(100, 20);
+		Calculator basicCal = new Calculator();
+		basicCal.add(100, 20);
 	}
 
 }
