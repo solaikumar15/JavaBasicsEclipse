@@ -22,5 +22,7 @@ public class ArraysDemo {
 		//A new comment
 		
 	}
-
+ public void nextmonth() {
+	 System.out.println("Next month is April");
+ }
 }
