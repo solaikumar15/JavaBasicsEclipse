@@ -2,6 +2,10 @@ package demo;
 
 public class Test {
 	
+	public void mobile() {
+		System.out.println("Apple makes Mobiles");
+	}
+	
 	public static void main(String[] args) {
 		
 		final int x = 20;
