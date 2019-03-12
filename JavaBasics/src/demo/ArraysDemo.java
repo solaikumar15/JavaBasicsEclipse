@@ -7,6 +7,10 @@ public class ArraysDemo {
 		
 		System.out.println("Today is the month of March");
 	}
+	
+	public void year( ) {
+		System.out.println("It is 2019");
+	}
 	public static void main(String[] args) {
 		int[] numbers = new int[20];
 		
