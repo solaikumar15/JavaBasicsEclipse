@@ -13,6 +13,7 @@ public class ArrayListDemo {
 		cities.add("Tokyo");
 		cities.add("New Delhi");
 		cities.add("London");
+		cities.add("Sydney");
 		
 		
 		for(String t : cities) {  //for-each loop
